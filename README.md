@@ -18,21 +18,7 @@ I'm a front-end developer passionate about building modern, responsive, and user
 
 ---
 
-### 🛠 &nbsp;Technologies I Work With
 
-#### 🖥️ Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
-
-#### ⚙️ Tools
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visualstudiocode)
-
----
 
 ### 🛠 &nbsp;Technologies I Work With
 
