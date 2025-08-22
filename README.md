@@ -1,5 +1,3 @@
-<img align="right" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/desktop.gif" width="30%">
-
 <h1>
   Hi There, I'm Ali Ibrahim 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -18,8 +16,6 @@ I'm a front-end developer passionate about building modern, responsive, and user
 
 ---
 
-
-
 ### 🛠 &nbsp;Technologies I Work With
 
 #### 🖥️ Frontend
@@ -36,6 +32,12 @@ I'm a front-end developer passionate about building modern, responsive, and user
 
 ---
 
+### 📊 GitHub Stats
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-Ibrahim0&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Ibrahim0&layout=compact&theme=tokyonight)
+
+---
+
 ### 📫 Connect with Me
 <a href="https://www.facebook.com/ali.ibrahim.576688"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/ali-ibrahim-b2b73034a"><img src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white"></a>
@@ -44,6 +46,5 @@ I'm a front-end developer passionate about building modern, responsive, and user
 
 ---
 
-<a href="https://komarev.com/ghpvc/?username=aliibrahim&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=aliibrahim&style=for-the-badge">
-</a>
+### 👀 Profile Views
+<img src="https://komarev.com/ghpvc/?username=Ali-Ibrahim0&style=for-the-badge">
